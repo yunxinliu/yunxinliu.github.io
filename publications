@@ -1,0 +1,495 @@
+<html>
+<head>
+<title>Yunxin Liu</title>
+
+</head>
+
+<body>
+
+<h2 class=3D"header loose">Publications</h2>
+	<h2>Conference and Workshop</h2>
+<ol>
+<li><strong>[ISCA-2021]</strong> Yang Wang, Chen Zhang, Zhiqiang Xie, Cong =
+Guo, Yunxin Liu, and Jingwen Leng, =E2=80=9CDual-side Sparse Tensor Core=E2=
+=80=9D, in <em>Proceedings of the 48th</em> <em>International Symposium on =
+Computer Architecture</em>, 2021.</li>
+<li><strong>[MobiCom-2021]</strong> Mannni Wang, Shaohua Ding, Ting Cao, Yu=
+nxin Liu, and Fengyuan Xu, =E2=80=9CAsyMo: Scalable and Efficient Deep-Lear=
+ning Inference on Asymmetric Mobile CPUs=E2=80=9D, in <em>Proceedings of th=
+e 27th Annual International Conference on Mobile Computing and Networking</=
+em>, 2021.</li>
+<li><strong>[MobiCom-2021]</strong> Wuyang Zhang, Zhezhi He, Luyang Liu, Zh=
+enhua Jia, Yunxin Liu, Marco Gruteser, Dipankar Raychaudhuri, and Yanyong Z=
+hang, =E2=80=9CElf: Accelerate High-resolution Mobile Deep Vision with Cont=
+ent-aware Parallel Offloading=E2=80=9D, in <em>Proceedings of the 27th Annu=
+al International Conference on Mobile Computing and Networking</em>, 2021.<=
+/li>
+<li><strong>[MobiCom-2021]</strong> Hao Wu, Xuejin Tian, Minghao Li, Yunxin=
+ Liu, Ganesh Ananthanarayanan, Fengyuan Xu, and Sheng Zhong, =E2=80=9CPECAM=
+: Privacy-Enhanced Video Streaming and Analytics via Securely-Recoverable T=
+ransformation=E2=80=9D, in <em>Proceedings of the 27th Annual International=
+ Conference on Mobile Computing and Networking</em>, 2021.</li>
+<li><strong>[MLSys-2021]</strong> Xiaohu Tang, Shihao Han, Li Lyna Zhang, T=
+ing Cao, and Yunxin Liu, =E2=80=9CTo Bridge Neural Network Design and Real-=
+World Performance: A Behaviour Study for Neural Networks=E2=80=9D, in <em>P=
+roceedings of the 4<sup>th</sup> Conference on Machine Learning and Systems=
+</em>, 2021.</li>
+<li>[<strong>WWW-2021</strong>] Chengxu Yang, Qipeng Wang, Mengwei Xu, Zhen=
+peng Chen, Kaigui Bian, Yunxin Liu, and Xuanzhe Liu, =E2=80=9CCharacterizin=
+g Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphon=
+e Data=E2=80=9D, in <em>Proceedings of the 30th International World Wide We=
+b Conference, </em>2021.</li>
+<li>[<strong>ICSE-2021</strong>] Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunya=
+ng Chen, and Yunxin Liu, =E2=80=9CDeepBackdoor: Black-box Backdoor Attack o=
+n Deep Learning Models through Neural Payload Injection=E2=80=9D, in <em>Pr=
+oceedings of the 43rd IEEE/ACM International Conference on Software Enginee=
+ring</em>, 2021.</li>
+<li><strong>[UbiComp-2021/IMWUT]</strong> Bingyan Liu, Yuanchun Li, Yunxin =
+Liu, Yao Guo, and Xiangqun Chen, =E2=80=9CPMC: A Privacy-preserving Deep Le=
+arning Model Customization Framework for Edge Computing=E2=80=9D, in <em>Pr=
+oceedings of the ACM on Interactive, Mobible, Wearable and Ubiquitous Techn=
+ologies</em>, Volume 4, Issue 4, 2020.</li>
+<li><strong>[SenSys-2020]</strong> Jinrui Zhang, Deyu Zhang, Xiaohui Xu, Fu=
+cheng Jia, Yunxin Liu, XuanzheLiu, Ju Ren, and Yaoxue Zhang, =E2=80=9CMobiP=
+ose: Real-Time Multi-PersonPose Estimation on Mobile Devices=E2=80=9D, in P=
+roceedings of the 18th ACM Conference on Embedded Networked Sensor Systems,=
+ 2020.</li>
+<li><strong>[SOCC-2020]</strong> Zhiqi Lin, Cheng Li, Youshan Miao, Yunxin =
+Liu, and Yinlong Xu, =E2=80=9CPaGraph: Scaling GNN Training on Large Graphs=
+ via Computation-aware Caching and Partitioning=E2=80=9D, in <em>Proceeding=
+s of the ACM Symposium on Cloud Computing 2020</em>, 2020.</li>
+<li><strong>[APSys-2020]</strong> Shiqi Jiang, Lihao Ran, Ting Cao, Yusen X=
+u, and Yunxin Liu, =E2=80=9CProfiling and Optimizing Deep Learning Inferenc=
+e on Mobile GPUs=E2=80=9D, in<em> Proceedings of the 11th ACM SIGOPS Asia-P=
+acific Workshop on Systems</em>, 2020.</li>
+<li><strong>[ESEC/FSE-2020]</strong> Ziqi Zhang, Yuanchun Li, Yao Guo, Xian=
+gqun Chen, and Yunxin Liu, =E2=80=9CDynamic Slicing for Deep Neural Network=
+s=E2=80=9D, in <em>Proceedings of the ACM Joint European Software Engineeri=
+ng Conference and Symposium on the Foundations of Software Engineering (ESE=
+C/FSE), </em>2020.</li>
+<li><strong>[MobiSys-2020]</strong> Mengwei Xu, Xiwen Zhang, Yunxin Liu, Ga=
+ng Huang, Xuanzhe Liu, and Felix Xiaozhu Lin, =E2=80=9CApproximate Query Se=
+rvice on Autonomous IoT Cameras=E2=80=9D, in <em>Proceedings of </em><em>th=
+e 18th International Conference on Mobile Systems, Applications, and Servic=
+es, </em>2020.</li>
+<li><strong>[MobiSys-2020]</strong> Hao Wu, Jinghao Feng, Xuejin Tian, Edwa=
+rd Sun, Yunxin Liu, Bo Dong, Fengyuan Xu, and Sheng Zhong, =E2=80=9CEMO: Re=
+al-Time Emotion Recognition from Single-Eye Images for Resource-Constrained=
+ Eyewear Devices=E2=80=9D, in <em>Proceedings of the 18th International Con=
+ference on Mobile Systems, Applications, and Services, </em>2020.</li>
+<li><strong>[EDLCV-2020]</strong> Li Lyna Zhang, Yuqing Yang, Yuhang Jiang,=
+ Wenwu Zhu, and Yunxin Liu, =E2=80=9CFast Hardware-Aware Neural Architectur=
+e Search=E2=80=9D, in <em>Proceedings of</em> <em>Joint Workshop on Efficie=
+nt Deep Learning in Computer Vision</em>, 2020. (in conjunction with CVPR 2=
+020)</li>
+<li><strong>[INFOCOM-2020]</strong> Shuang Jiang, Zhiyao Ma, Xiao Zeng, Che=
+nren Xu, Mi Zhang, Chen Zhang, and Yunxin Liu, =E2=80=9CSCYLLA: QoE-aware C=
+ontinuous Mobile Vision with Dynamic Deep Neural Network Reconfiguration us=
+ing FPGA=E2=80=9D, in <em>Proceedings of the 2020 IEEE International Confer=
+ence on Computer Communications</em>, 2020.</li>
+<li><strong>[HotEdgeVideo-2019]</strong> Shang Wang, Chen Zhang, Yuanchao S=
+hu, and Yunxin Liu, =E2=80=9CLive Video Analytics with FPGA-based Smart Cam=
+eras=E2=80=9D, in <em>Proceedings of the Workshop on Hot Topics in Video An=
+alytics and Intelligent Edges</em>, 2019.</li>
+<li><strong>[HotEdgeVideo-2019]</strong> Hao Wu, Jinghao Feng, Xuejin Tian,=
+ Fengyuan Xu, Sheng Zhong, Yunxin Liu, and Xiaofeng Wang, =E2=80=9CsecGAN: =
+A Cycle-Consistent GAN for Securely-Recoverable Video Transformation=E2=80=
+=9D, in <em>Proceedings of the Workshop on Hot Topics in Video Analytics an=
+d Intelligent Edges</em>, 2019.</li>
+<li><strong>[SEC-2019]</strong> Yan Lu, Yuanchao Shu, Xu Tan, Yunxin Liu, M=
+engyu Zhou, Qi Chen, and Dan Pei, =E2=80=9CCollaborative Learning of Human =
+Behavior: An Empirical Study on Location Prediction=E2=80=9D, in <em>Procee=
+dings of the Fourth ACM/IEEE Symposium on Edge Computing</em>, 2019.</li>
+<li><strong>[MobiCom-2019]</strong> Taegyeong Lee, Zhiqi Lin, Saumay Pushp,=
+ Caihua Li, Yunxin Liu, Youngki Lee, Fengyuan Xu, Chenren Xu, Lintao Zhang,=
+ and Junehwa Song, =E2=80=9COcclumency: Privacy-preserving Remote Deep-lear=
+ning Inference Using SGX=E2=80=9D, in <em>Proceedings of the 25th Annual In=
+ternational Conference on Mobile Computing and Networking</em>, 2019.</li>
+<li><strong>[CVPR-2019]</strong> Shijie Cao, Lingxiao Ma, Wencong Xiao, Che=
+n Zhang, Yunxin Liu, Lintao Zhang, Lanshun Nie, and Zhi Yang, =E2=80=9CSeer=
+Net: Predicting Convolutional Neural Network Feature-Map Sparsity through L=
+ow-Bit Quantization=E2=80=9D, in <em>Proceedings of IEEE Computer Society C=
+onference on Computer Vision and Pattern Recognition (CVPR=E2=80=992019)</e=
+m>, 2019.</li>
+<li><strong>[FPGA-2019]</strong> Shijie Cao, Chen Zhang, Zhuliang Yao, Wenc=
+ong Xiao, Lanshun Nie, Dechen Zhan, Yunxin Liu, Ming Wu, and Lintao Zhang, =
+=E2=80=9CEfficient and Effective Sparse LSTM on FPGA with Bank-Balanced Spa=
+rsity=E2=80=9D, in <em>Proceedings of 27th ACM/SIGDA International Symposiu=
+m on Field-Programmable Gate Arrays</em>, 2019.</li>
+<li><strong>[WWW-2019]</strong> Mengwei Xu, Jiawei Liu, Yuanqiang Liu, Feli=
+x Xiaozhu Lin, Yunxin Liu, and Xuanzhe Liu, =E2=80=9CA First Look at Deep L=
+earning Apps on Smartphones=E2=80=9D, in <em>Proceedings of the 28th Intern=
+ational World Wide Web Conference</em>, 2019.</li>
+<li><strong>[INFOCOM-2019]</strong> Yuanxing Zhang, Pengyu Zhao, Kaigui Bia=
+n, Yunxin Liu, Lingyang Song, and Xiaoming Li, =E2=80=9CDRL360: 360-degree =
+Video Streaming with Deep Reinforcement Learning=E2=80=9D, in <em>Proceedin=
+gs of the 2019 IEEE International Conference on Computer Communications</em=
+>, 2019.</li>
+<li><strong>[IWQoS-2019]</strong> Lu Zhang, Chao Li, Pengyu Wang, Yunxin Li=
+u, Yang Hu, Quan Chen, and Minyi Guo, =E2=80=9CCharacterizing and Orchestra=
+ting NFV-Ready Servers for Efficient Edge Data Processing=E2=80=9D, in <em>=
+Proceedings of the 2019</em> <em>IEEE/ACM International Symposium on Qualit=
+y of Service, </em>2019.</li>
+<li><strong>[SenSys-2018]</strong> Hyosu Kim, Anish Byanjankar, Yunxin Liu,=
+ Yuanchao Shu, and Insik Shin, =E2=80=9CUbiTap: Leveraging Acoustic Dispers=
+ion for Ubiquitous Touch Interface on Solid Surfaces=E2=80=9D, in <em>Proce=
+edings of the 16th ACM Conference on Embedded Networked Sensor Systems</em>=
+, 2018. (<strong>Best Paper Runner-up Award</strong>)</li>
+<li><strong>[MobiCom-2018]</strong> Mengwei Xu , Mengze Zhu, Yunxin Liu, Fe=
+lix Xiaozhu Lin, and Xuanzhe Liu, =E2=80=9CDeepCache: Principled Cache for =
+Mobile Deep Vision=E2=80=9C, in <em>Proceedings of the 24th Annual Internat=
+ional Conference on Mobile Computing and Networking</em>, 2018.</li>
+<li><strong>[UbiComp-2018]</strong> Saumay Pushp, Yunxin Liu, Mengwei Xu, C=
+hangyoung Koh, and Junehwa Song, =E2=80=9CPrivacyShield: A Mobile System fo=
+r Supporting Subtle Just-in-time Privacy Provisioning through Off-Screen-ba=
+sed Touch Gestures=E2=80=9D, in <em>Proceedings of the 2018 ACM Internation=
+al Joint Conference on Pervasive and Ubiquitous Computing</em>, 2018.</li>
+<li><strong>[MobiSys-2018]</strong> Luyang Liu, Ruiguang Zhong, Wuyang Zhan=
+g, Yunxin Liu, Jiansong Zhang, Lintao Zhang, and Marco Gruteser, =E2=80=9CC=
+utting the Cord: Designing a High-quality Untethered VR System with Low Lat=
+ency Remote Rendering=E2=80=9D, in <em>Proceedings of the 16th Internationa=
+l Conference on Mobile Systems, Applications, and Services</em>, 2018.</li>
+<li><strong>[WWW-2018]</strong> Yun Ma, Ziniu Hu, Yunxin Liu, Tao Xie, and =
+Xuanzhe Liu, =E2=80=9CAladdin: Automating Release of Deep-Link API on Andro=
+id=E2=80=9D, in <em>Proceedings of the 27th International World Wide Web Co=
+nference, </em>2018.</li>
+<li><strong>[APSys-2017]</strong> Ruiguang Zhong, Manni Wang, Zijian Chen, =
+Luyang Liu, Yunxin Liu, Jiansong Zhang, Lintao Zhang, and Thomas Moscibroda=
+, =E2=80=9COn Building a Programmable Wireless High-Quality Virtual Reality=
+ System Using Commodity Hardware=E2=80=9D, in <em>Proceedings of</em> t<em>=
+he 8th ACM SIGOPS Asia-Pacific Workshop on Systems, </em>2017.</li>
+<li><strong>[ASE-2017]</strong> Li Lyna Zhang, Chieh-Jan Mike Liang, Yunxin=
+ Liu, and En-Hong Chen, =E2=80=9CSystematically Testing Background Services=
+ of Mobile Apps=E2=80=9D, in <em>Proceedings of the 32nd IEEE/ACM Internati=
+onal Conference on Automated Software Engineering, </em>2017.</li>
+<li><strong>[MobiCom-2017]</strong> Chanyou Hwang, Saumay Pushp, Changyoung=
+ Koh, Jungpil Yoon, Yunxin Liu, Seungpyo Choi, and Junehwa Song, =E2=80=9CR=
+AVEN: Optimizing Power Consumption of Mobile Games Using Perception-Aware R=
+endering Rate Scaling=E2=80=9D, in <em>Proceedings of the 23rd Annual Inter=
+national Conference on Mobile Computing and Networking, </em>2017.</li>
+<li><strong>[APNET-2017]</strong> Hongjiang Lyu, Linghe Kong, Chengzhang Li=
+, Yunxin Liu, Jiansong Zhang, and Guihai Chen, =E2=80=9CBikeLoc: a Real-tim=
+e High-Precision Bicycle Localization System Using Synthetic Aperture Radar=
+=E2=80=9D, in <em>Proceedings of the 1st Asia-Pacific Workshop on Networkin=
+g, </em>2017.</li>
+<li><strong>[IWQoS-2017] </strong>Yifan Zhang, Yunxin Liu, Xuanzhe Liu, and=
+ Qun Li, =E2=80=9CEnabling Accurate and Efficient Modeling-based CPU Power =
+Estimation for Smartphones=E2=80=9D, in <em>Proceedings of the 2017</em> <e=
+m>IEEE/ACM International Symposium on Quality of Service, </em>2017.</li>
+<li><strong>[IWQoS-2017]</strong> Changhua Pei, Youjian Zhao, Yunxin Liu, K=
+un Tan, Jiansong Zhang, Yuan Meng, and Dan Pei, =E2=80=9CLatency-Based WiFi=
+ Congestion Control in the Air for Dense WiFi Networks=E2=80=9D, in <em>Pro=
+ceedings of the 2017</em> <em>IEEE/ACM International Symposium on Quality o=
+f Service, </em>2017.</li>
+<li><strong>[Mobiquitous2017] </strong>Weixi Gu, Zimu Zhou, Yuxun Zhou, Han=
+ Zou, Yunxin Liu, Costas J. Spanous, and Lin Zhang, =E2=80=9CBikeMate: Bike=
+ Riding Behavior Monitoring with Smartphones=E2=80=9D, in <em>Proceedings o=
+f the 14th EAI International Conference on Mobile and Ubiquitous Systems: C=
+omputing, Networking and Services</em>, 2017.</li>
+<li><strong>[MobiHoc-2017]</strong> Longbo Huang, Minghua Chen, and Yunxin =
+Liu, =E2=80=9CLearning-aided Stochastic Network Optimization with Imperfect=
+ State Prediction=E2=80=9D, in <em>Proceedings of the 9th International Sym=
+posium on Mobile Ad Hoc Networking and Computing, </em>2017.</li>
+<li><strong>[WWW-2017]</strong> Mengwei Xu, Yun Ma, Xuanzhe Liu, Felix Xiao=
+zhu Lin, and Yunxin Liu, =E2=80=9CAppHolmes: Detecting and Characterizing A=
+pp Collusion among Third-Party Android Markets=E2=80=9D, in <em>Proceedings=
+ of the 26th International World Wide Web Conference, </em>2017.</li>
+<li><strong>[APSys-2016]</strong> Seung-seob Lee, Hang Shi, Kun Tan, Yunxin=
+ Liu, SuKyoung Lee, and Yong Cui, =E2=80=9CSmart and Secure: Preserving Pri=
+vacy in Untrusted Home Routers=E2=80=9D, in <em>Proceedings of</em> t<em>he=
+ 7th ACM SIGOPS Asia-Pacific Workshop on Systems, </em>2016.</li>
+<li><strong>[UbiComp-2016]</strong> Zhe Yang, Yuting Bao, Chuhao Luo, Xingy=
+a Zhao, Siyu Zhu, Chunyi Peng, Yunxin Liu, and Xinbing Wang, =E2=80=9CARTco=
+de: Preserve Art and Code in Any Image=E2=80=9D, in <em>Proceedings of the =
+2016 ACM International Joint Conference on Pervasive and Ubiquitous Computi=
+ng, </em>2016.</li>
+<li><strong>[INFOCOM-2016] </strong>Hao Han, Shanhe Yi, Qun Li, Guobin Shen=
+, Yunxin Liu, and Edmund Novak, =E2=80=9CAMIL: Localizing Neighboring Mobil=
+e Devices Through a Simple Gesture=E2=80=9D,&nbsp;in <em>Proceedings of the=
+ 2016 IEEE International Conference on Computer Communications, </em>2016.<=
+/li>
+<li><strong>[HotPower-2015] </strong>Yu Yan, Songtao He, Yunxin Liu, and Lo=
+ngbo Huang, =E2=80=9COptimizing Power Consumption of Mobile Games=E2=80=9D,=
+ in&nbsp;<em>Proceedings of the 7th Workshop on Power-Aware Computing and S=
+ystems</em>, co-located with <em>SOSP,</em> 2015.</li>
+<li><strong>[MobiCom-2015]</strong> Duc Hoang Bui, Yunxin Liu, Hyosu Kim, I=
+nsik Shin, and Feng Zhao, =E2=80=9CRethinking Energy-Performance Trade-Off =
+in Mobile Web Page Loading=E2=80=9D,&nbsp;in <em>Proceedings of the 21st An=
+nual International Conference on Mobile Computing and Networking, </em>2015=
+.</li>
+<li><strong>[MobiCom-2015]</strong> Songtao He, Yunxin Liu, and Hucheng Zho=
+u, =E2=80=9COptimizing Smartphone Power Consumption through Dynamic Resolut=
+ion Scaling=E2=80=9D,&nbsp;in <em>Proceedings of the 21st Annual Internatio=
+nal Conference on Mobile Computing and Networking, </em>2015.</li>
+<li><strong>[MobiGame-2015] </strong>Tianxing Jin, Songtao He, and Yunxin L=
+iu, =E2=80=9CTowards Accurate GPU Power Modeling for Smartphones=E2=80=9D, =
+in <em>Proceedings of the 2nd Workshop on Mobile Gaming</em>, co-located wi=
+th <em>MobiSys,</em> 2015.</li>
+<li><strong>[MobiHoc-2015]</strong> Yichuan Wang, Xin Liu, David Chu, and Y=
+unxin Liu, =E2=80=9CEarlyBird: Mobile Prefetching of Social Network Feeds v=
+ia Content Preference Mining and Usage Pattern Analysis=E2=80=9D, in <em>Pr=
+oceedings of the 7th International Symposium on Mobile Ad Hoc Networking an=
+d Computing, </em>2015.</li>
+<li><strong>[WWW-2015]</strong> Yun Ma, Shuhui Zhang, Xuanzhe Liu, Yunxin L=
+iu, and Tao Xie, =E2=80=9CMeasurement and Analysis of Mobile Web Cache Perf=
+ormance=E2=80=9D, in <em>Proceedings of the 24th International World Wide W=
+eb Conference, </em>2015.</li>
+<li><strong>[ICWS-2015]</strong> Yi Liu, Xuanzhe Liu, Yun Ma, Yunxin Liu, Z=
+ibin Zheng,&nbsp;Gang Huang, and M. Brian Blake, =E2=80=9CCharacterizing RE=
+STFul Web Services Usage on Smartphones:&nbsp;A Tale of Native Apps and Web=
+ Apps=E2=80=9D, in <em>Proceedings of the 22nd IEEE International Conferenc=
+e on Web Services, </em>2015.</li>
+<li><strong>[ICWS-2015]</strong> Yun Ma, Xuanzhe Liu, Meihua Yu, Yunxin Liu=
+, Qiaozhu Mei, and&nbsp;Feng Feng, =E2=80=9CMash Droid: An Approach to Mobi=
+le-Oriented Dynamic Services Discovery and Composition by In-App Search=E2=
+=80=9D, in <em>Proceedings of the 22nd IEEE International Conference on Web=
+ Services, </em>2015.</li>
+<li><strong>[INFOCOM-2014]</strong> Tuo Yu, Zilong Zhou, Da Zhang, Xinbing =
+Wang, Yunxin Liu, and Songwu Lu, =E2=80=9CINDAPSON: An Incentive Data Plan =
+Sharing System Based on Self-Organizing Network=E2=80=9D, in <em>Proceeding=
+s of the 2014 IEEE International Conference on Computer Communications, </e=
+m>2014.</li>
+<li><strong>[HotPower-2014]</strong> Xiang Chen, Kent W. Nixon, Hucheng Zho=
+u, Yunxin Liu, and Yiran Chen, =E2=80=9CFingerShadow: An OLED Power Optimiz=
+ation based on Smartphone Touch Interactions=E2=80=9D, in <em>Proceedings o=
+f the 6th Workshop on Power-Aware Computing and Systems</em>, co-located wi=
+th <em>OSDI,</em> 2014. (Featured by <a href=3D"http://tabtec.com/windows/m=
+icrosoft-trick-darken-hidden-parts-phones-screen/">tabtec</a>, <a href=3D"h=
+ttp://androidcommunity.com/microsoft-researchs-fingershadow-to-reduce-batte=
+ry-consumption-20141007/">Android Community</a>, <a href=3D"http://www.oled=
+-info.com/microsoft-fingershadow-clever-technique-save-power-oled-mobile-de=
+vices">OLED-info</a>, and <a href=3D"http://techxplore.com/news/2014-10-fin=
+gershadow-screen-power-saving-technique.html">TechXplore</a>)</li>
+<li><strong>[HotPower-2014]</strong> Kent W. Nixon, Xiang Chen, Hucheng Zho=
+u, Yunxin Liu, and Yiran Chen, =E2=80=9CMobile GPU Power Consumption Reduct=
+ion via Dynamic Resolution and Frame Rate Scaling=E2=80=9D, in <em>Proceedi=
+ngs of the 6th Workshop on Power-Aware Computing and Systems</em>, co-locat=
+ed with <em>OSDI,</em> 2014.</li>
+<li><strong>[LANMAN-2014]</strong> Zehui Li, Chunyi Peng, and Yunxin Liu, =
+=E2=80=9CHidden Costs of Mobile Data Access in Cellular Networks=E2=80=9D, =
+in <em>Proceedings of the 20th</em> <em>IEEE LANMAN</em> <em>Workshop</em> =
+2014. (<strong>Invited Paper</strong>)</li>
+<li><strong>[HotPower-2013]</strong> Yifan Zhang, Xudong Wang, Xuanzhe Liu,=
+ Yunxin Liu, Li Zhuang, and Feng Zhao, =E2=80=9CTowards Better CPU Power Ma=
+nagement on Multicore Smartphones=E2=80=9D, in <em>Proceedings of the 5th W=
+orkshop on Power-Aware Computing and Systems</em>, co-located with <em>SOSP=
+,</em> 2013.</li>
+<li><strong>[CCS-2013]</strong> Alexander Moshchuk, Helen J. Wang, and Yunx=
+in Liu, =E2=80=9CContent-Based Isolation: Rethinking Isolation Policy Desig=
+n on Client Systems=E2=80=9D, in <em>Proceedings of the 20th ACM Conference=
+ on Computer and Communications Security, </em>2013.</li>
+<li><strong>[MobiSys-2013]</strong> Fengyuan Xu, Yunxin Liu, Thomas Moscibr=
+oda, Ranveer Chandra, Long Jin, Yongguang Zhang, and Qun Li, =E2=80=9COptim=
+izing Background Email Sync on Smartphones=E2=80=9D, in <em>Proceedings of =
+the 11th International Conference on Mobile Systems, Applications, and Serv=
+ices, </em>2013.</li>
+<li><strong>[MobiSys-2013]</strong> Robert LiKamWa, Yunxin Liu, Nicholas D.=
+ Lane, and Lin Zhong, =E2=80=9CMoodScope: Building a Mood Sensor from Smart=
+phone Usage Patterns=E2=80=9D, in <em>Proceedings of the 11th International=
+ Conference on Mobile Systems, Applications, and Services, </em>2013.</li>
+<li><strong>[NSDI-2013]</strong> Fengyuan Xu, Yunxin Liu, Qun Li, and Yongg=
+uang Zhang, =E2=80=9CV-edge: Fast Self-Constructive Power Modeling of Smart=
+phones Based on Battery Voltage Dynamics=E2=80=9D, in <em>Proceedings of th=
+e 10th USENIX Symposium on Networked Systems Design and Implementation</em>=
+, 2013.</li>
+<li><strong>[Internetware-2013]</strong> Xudong Wang, Xuanzhe Liu, Gang Hua=
+ng, and Yunxin Liu, =E2=80=9CAppMobiCloud: improving mobile web application=
+s by mobile-cloud convergence=E2=80=9D, in <em>Proceedings of the 5th Asia-=
+Pacific Symposium on Internetware, </em>2013.</li>
+<li><strong>[MobiSys-2012]</strong> Hao Han, Yunxin Liu, Guobin Shen, Yongg=
+uang Zhang, and Qun Li, =E2=80=9CDozyAP: Power-Efficient Wi-Fi Tethering=E2=
+=80=9D, in <em>Proceedings of the 10th International Conference on Mobile S=
+ystems, Applications, and Services, </em>2012.</li>
+<li><strong>[PhoneSense-2011]</strong> Robert LiKamWa, Yunxin Liu, Nicholas=
+ D. Lane, and Lin Zhong, =E2=80=9CCan Your Smartphone Infer Your Mood?=E2=
+=80=9D, in <em>Proceedings of</em> <em>ACM Workshop on Sensing Applications=
+ on Mobile Phones</em>, co-located with <em>ACM</em> <em>SenSys,</em> 2011.=
+ (<strong><em>Best Paper Award</em></strong>)</li>
+<li><strong>[MobiSys-2009]</strong> Yunxin Liu, Ahmad Rahmati, Yuanhe Huang=
+, Hyukjae Jang, Lin Zhong, Yongguang Zhang, and Shensheng Zhang, =E2=80=9Cx=
+Share: Supporting Impromptu Sharing of Mobile Phones,=E2=80=9D in <em>Proce=
+edings of the 7th International Conference on Mobile Systems, Applications,=
+ and Services, </em>2009.</li>
+<li><strong>[INFOCOM-2009]</strong> Chuanxiong Guo, Yunxin Liu, Wenchao She=
+n, Helen J. Wang, Qing Yu, and Yongguang Zhang, =E2=80=9CMining the Web and=
+ the Internet for Accurate IP Address Geolocations=E2=80=9D, in <em>Proceed=
+ings of the 2009 IEEE International Conference on Computer Communications (=
+mini conference)</em>, 2009.</li>
+<li><strong>[MobiVirt-2008]</strong>&nbsp;Seehwan Yoo, Yunxin Liu, Cheol-Ho=
+ Hong, Chuck Yoo, and Yongguang Zhang, =E2=80=9CMobiVMM: A Virtual Machine =
+Monitor for Mobile Phones=E2=80=9D, in <em>Proceedings of the Workshop on V=
+irtualization in Mobile Computing</em>, co-located with <em>MobiSys</em>, 2=
+008.</li>
+<li><strong>[Globecom-2005]</strong> Yunxin Liu, Yongqiang Xiong, Yang Yang=
+, PengZhi Xu, and Qian Zhang, =E2=80=9CAn Experimental Study on Multi-Chann=
+el Multi-Radio Multi-Hop Wireless Networks=E2=80=9D, in <em>Proceedings of =
+the 2005 IEEE Global Communications Conference</em>, 2005.</li>
+<li><strong>[Globecom-2005]</strong> Haitao Wu, Yunxin Liu, Jie Chen, and Q=
+ian Zhang, =E2=80=9CLayer 2.5 SoftMAC: End-system based Media Streaming Sup=
+port on Home Networks=E2=80=9D, in <em>Proceedings of the 2005 IEEE Global =
+Communications Conference</em>, 2005.</li>
+<li><strong>[SECON-2005]</strong> Haitao Wu, Xin Wang, Yunxin Liu, Qian Zha=
+ng, and Zhi-Li Zhang, =E2=80=9CSoftMAC: Layer 2.5 MAC for VoIP Support in M=
+ulti-Hop Wireless Networks=E2=80=9D, in Proceedings of the 2nd <em>IEEE Int=
+ernational Conference on Sensing, Communication, and Networking</em>, 2005.=
+</li>
+<li><strong>[ICCCAS-2002]</strong> Yunxin Liu, Qian Zhang, and Wenwu Zhu, =
+=E2=80=9CA Priority-Based MAC Scheduling Algorithm for Enhancing QoS Suppor=
+t in Bluetooth Piconet=E2=80=9D, in <em>Proceedings of the 2002 IEEE Intern=
+ational Conference on Communications, Circuits and Systems</em>, 2002. (<st=
+rong><em>Invited Paper</em></strong>)</li>
+</ol>
+<h2>Journal</h2>
+<ol>
+<li><strong>[TMC-2021]</strong> Deyu Tian, Yun Ma, Aruna Balasubramanian, Y=
+unxin Liu, Gang Huang, and Xuanzhe Liu, =E2=80=9CCharacterizing Embedded We=
+b Browsing in Mobile Apps=E2=80=9D, accepted to appear in<em> IEEE Transact=
+ions on Mobile Computing</em>, 2021.</li>
+<li><strong>[TPDS-2021]</strong> Youhui Bai, Cheng Li, Zhiqi Lin, Yufei Wu,=
+ Youshan Miao, Yunxin Liu, and Yinlong Xu, =E2=80=9CEfficient Data Loader f=
+or Fast Sampling-based GNN Training on Large Graphs=E2=80=9D, accepted to a=
+ppear in <em>IEEE Transactions on Parallel and Distributed Systems</em>, 20=
+21.</li>
+<li><strong>[MPRV-2021]</strong> Mengwei Xu, Yunxin Liu, and Xuanzhe Liu, =
+=E2=80=9CA Case for Camera-as-a-Service=E2=80=9D, in <em>IEEE Pervasive Com=
+puting</em>, 2021.</li>
+<li><strong>[TOIT-2021</strong> Xuanzhe Liu, Shangguang Wang, Yun Ma, Ying =
+Zhang, Qiaozhu Mei, Yunxin Liu, and Gang Huang, =E2=80=9COperating Systems =
+for Resource-adaptive Intelligent Software: Challenges and Opportunities=E2=
+=80=9D, in <em>ACM Transactions on Internet Technology</em>, 2021.</li>
+<li><strong>[TCC-2020]</strong> Chuntao Ding, Ao Zhou, Yunxin Liu, Rong Cha=
+ng, Ching-Hsien Hsu, and Shangguang Wang, =E2=80=9CA Cloud-Edge Collaborati=
+on Framework for Cognitive Service=E2=80=9D, in <em>IEEE Transactions on Cl=
+oud Computing</em>, 2020.</li>
+<li><strong>[TMC-2020]</strong> Yuanxing Zhang, Yushuo Guan, Kaigui Bian, Y=
+unxin Liu, Hu Tuo, Lingyang Song, and Xiaoming Li, =E2=80=9CEPASS360: QoE-a=
+ware 360-degree Video Streaming over Mobile Devices=E2=80=9D, in <em>IEEE/A=
+CM Transactions on Mobile Computing</em>, 2020.</li>
+<li><strong>[PMC-2020] </strong>Gwangseon Janga, Jae-Gil Leeb, Jin-woo Leeb=
+, and Yunxin Liu, =E2=80=9CDistributed Fine-Tuning of CNNs for Image Retrie=
+val on Multiple MobileDevices=E2=80=9D, in <em>Pervasive and Mobile Computi=
+ng</em>, 2020.</li>
+<li><strong>[ACCESS-2020] </strong>Hyosu Kim, Byunggill Joe, and Yunxin Liu=
+, =E2=80=9CTapSnoop: Leveraging Tap Sounds to Infer Tapstrokes on Touchscre=
+en Devices=E2=80=9D, in <em>IEEE Access</em>, vol. 8, pp. 14737-14748, 2020=
+.</li>
+<li><strong>[TDSC-2019]</strong> Seung-seob Lee, Hang Shi, Kun Tan, Yunxin =
+Liu, SuKyoung Lee, and Yong Cui, =E2=80=9CS2Net: Preserving Privacy in Smar=
+t Home Routers=E2=80=9D, <em>IEEE Transactions on Dependable and Secure Com=
+puting</em>, 2019.</li>
+<li><strong>[TON-2018]</strong> Longbo Huang, Minghua Chen, and Yunxin Liu,=
+&nbsp;=E2=80=9CLearning-aided Stochastic Network Optimization with Imperfec=
+t State Prediction=E2=80=9D,&nbsp;<em>IEEE/ACM Transactions on Networking</=
+em>, 2018.</li>
+<li><strong>[TOIT-2018]</strong> Xuanzhe Liu, Yun Ma, Meihua Yu, Yunxin Liu=
+, Gang Huang, and Hong Mei, =E2=80=9Ci-Jacob: An Internetware-Oriented Appr=
+oach to Optimizing Computation-Intensive Mobile Web Browsing=E2=80=9D, <em>=
+ACM Transactions on Internet Technology</em>, 2018.</li>
+<li><strong>[TMC-2018]</strong> Yun Ma, Xuanzhe Liu, Yi Liu, Yunxin Liu, an=
+d Gang Huang, =E2=80=9CA Tale of Two Fashions: An Empirical Study on the Pe=
+rformance of Native Apps and Web Apps on Android=E2=80=9D, <em>IEEE Transac=
+tions on Mobile Computing</em>, 2018.</li>
+<li><strong>[TMC-2018]</strong> Li Lyna Zhang, Chieh-Jan Mike Liang, Zhao L=
+i, Yunxin Liu, Feng Zhao, and Enhong Chen, =E2=80=9CCharacterizing Privacy =
+Risks of Mobile Apps with Sensitivity Analysis=E2=80=9D, <em>IEEE Transacti=
+ons on Mobile Computing</em>, 2018.</li>
+<li><strong>[TMC-2017] </strong>Gang Huang, Mengwei Xu, Felix Xiaozhu Lin, =
+Yunxin Liu, Yun Ma, Saumay Pushp, and Xuanzhe Liu, =E2=80=9CShuffleDog: Cha=
+racterizing and Adapting User-Perceived Latency of Android Apps=E2=80=9D, <=
+em>IEEE Transactions on Mobile Computing</em>, 2016.</li>
+<li><strong>[TMC-2017]</strong> Xuanzhe Liu, Yun Ma, Xinyang Wang, Yunxin L=
+iu, Tao Xie, and Gang Huang, =E2=80=9CSWAROVsky: Optimizing Resource Loadin=
+g for Mobile Web Browsing=E2=80=9D, <em>IEEE Transactions on Mobile Computi=
+ng</em>, 2017.</li>
+<li><strong>[TMC-2017]</strong> Xuanzhe Liu, Yun Ma, Shuailiang Dong, Yunxi=
+n Liu, Tao Xie, and Gang Huang, =E2=80=9CReWAP: Reducing Redundant Transfer=
+s for Mobile Web Browsing via App-Specific Resource Packaging=E2=80=9D, <em=
+>IEEE Transactions on Mobile Computing</em>, 2017.</li>
+<li><strong>[TMC-2016] </strong>Xuanzhe Liu, Yun Ma, Yunxin Liu, Tao Xie, a=
+nd Gang Huang, =E2=80=9CDemystifying the Imperfect Client-Side Cache Perfor=
+mance of Mobile Web Browsing=E2=80=9D, <em>IEEE Transactions on Mobile Comp=
+uting</em>, 2016.</li>
+<li><strong>[GetMobile-2016]</strong> Duc Hoang Bui, Yunxin Liu, Hyosu Kim,=
+ Insik Shin, and Feng Zhao, =E2=80=9CRethinking Energy-Performance Trade-of=
+f in Mobile Web Page Loading=E2=80=9D, <em>ACM</em> <em>GetMobile:</em> <em=
+>Mobile Computing and Communications, </em>Volume 20 Issue 2, April 2016.</=
+li>
+<li><strong>[TSC-2015] </strong>Xuanzhe Liu, Yun Ma, Gang Huang, Junfeng Zh=
+ao, Hong Mei, and Yunxin Liu, =E2=80=9CData-Driven Composition for Service-=
+Oriented Situational Web Applications=E2=80=9D, <em>IEEE Transactions on Se=
+rvices Computing</em>, vol. 8, no. 1, 2015.</li>
+<li><strong>[TON-2014]</strong>&nbsp; Hao Han, Yunxin Liu, Guobin Shen, Yon=
+gguang Zhang, Qun Li, and Chiu C. Tan, =E2=80=9CDesign, Realization and Eva=
+luation of DozyAP for Power-Efficient Wi-Fi Tethering=E2=80=9D,&nbsp;<em>IE=
+EE/ACM Transactions on Networking</em>, 2014.</li>
+<li><strong>[TPDS-2013]</strong> Dan Li, Jiong Chen, Chuanxiong Guo, Yunxin=
+ Liu, Jinyu Zhang, Zhi-li Zhang, and Yongguang Zhang, =E2=80=9CIP-Geolocati=
+on Mapping for Moderately-Connected Internet Regions=E2=80=9D, <em>IEEE Tra=
+nsactions on Parallel and Distributed Systems, </em>vol. 24, no. 2, pp. 381=
+-391, Feb. 2013.</li>
+<li><strong>[TMC-2010]</strong> Yunxin Liu, Ahmad Rahmati, Hyukjae Jang, Yu=
+anhe Huang, Lin Zhong, Yongguang Zhang, and Shensheng Zhang, =E2=80=9CDesig=
+n, Realization, and Evaluation of xShare for Impromptu Sharing of Mobile Ph=
+ones=E2=80=9D, <em>IEEE Transactions on Mobile Computing</em>, vol. 9, no. =
+12, pp. 1682-1696, Aug. 2010, doi:10.1109/TMC.2010.162. (<strong><em>Spotli=
+ght Paper for the issue</em></strong>)</li>
+<li><strong>[TMC-2007]</strong> Haitao Wu, Yunxin Liu, Qian Zhang, and Zhil=
+i Zhang, =E2=80=9CSoftMAC: Layer 2.5 Collaborative MAC for Multimedia Suppo=
+rt in Multi-hop Wireless Networks=E2=80=9D, <em>IEEE Transactions on Mobile=
+ Computing</em>, Vol. 6, Issue 1, Jan. 2007 Page(s):12-25.</li>
+</ol>
+<h2>Others</h2>
+<ol>
+<li><strong>[Demo-MobiCom-2020]</strong> Mengwei Xu, Tiantu Xu, Yunxin Liu,=
+ Xuanzhe Liu, Gang Huang, and Felix Xiaozhu Lin, =E2=80=9CDemo: A Query Eng=
+ine for Zero-streaming Cameras=E2=80=9D, in <em>MobiCom</em> 2020.</li>
+<li><strong>[Demo-MobiCom-2017]</strong> Chanyou Hwang, Saumay Pushp, Chang=
+young Koh, Jungpil Yoon, Yunxin Liu, Seungpyo Choi, and Junehwa Song, =E2=
+=80=9CDemo: FROG: Optimizing Power Consumption of Mobile Games Using Percep=
+tion-Aware Rendering Rate Scaling=E2=80=9D, in <em>MobiCom</em> 2017.</li>
+<li><strong>[Poster-UbiComp-2017]</strong> Weixi Gu, Yunxin Liu, Yuxun Zhou=
+, Zimu Zhou, Costas J. Spanos, and Lin Zhang, =E2=80=9CBikeSafe: bicycle be=
+havior monitoring via smartphones=E2=80=9D, in <em>UbiComp</em> 2017.</li>
+<li><strong>[Poster-ICSE-2017]</strong> Yun Ma, Xuanzhe Liu, Hu Ziniu, Dian=
+ Yang, Gang Huang, Yunxin Liu, and Tao Xie, =E2=80=9CAladdin: Automating Re=
+lease of Android Deep Links to In-App Content=E2=80=9D, in <em>ICSE</em> 20=
+17.</li>
+<li><strong>[Poster-MobiSys-2016]</strong>&nbsp;Hyosu Kim, Daehyeok Kim, By=
+unggill Joe, Yunxin Liu, and Insik Shin, =E2=80=9CPoster: TapSnoop =E2=80=
+=93 Inferring Tapstrokes from Listening to Tap Sound on Mobile Devices=E2=
+=80=9D, in <em>MobiSys</em> 2016.</li>
+<li><strong>[Demo-INFOCOM-2016] </strong>Hao Han, Shanhe Yi, Qun Li, Guobin=
+ Shen, Yunxin Liu, and Edmund Novak, =E2=80=9CAMIL: Localizing Neighboring =
+Mobile Devices Through a Simple Gesture=E2=80=9D, in <em>INFOCOM</em> 2016.=
+</li>
+<li><strong>[Demo-MobiCom-2015] </strong>Songtao He, Yunxin Liu, and Huchen=
+g Zhou, =E2=80=9COptimizing Smartphone Power Consumption through Dynamic Re=
+solution Scaling=E2=80=9D, <em>MobiCom=E2=80=9915 Demo</em>, 2015. (<strong=
+>Best Demo Award</strong>)</li>
+<li><strong>[MSR-TR-2015]</strong> Yifan Zhang, Yunxin Liu, Li Zhuang, Xuan=
+zhe Liu, Feng Zhao, and Qun Li, =E2=80=9CAccurate CPU Power Modeling for Mu=
+lticore Smartphones=E2=80=9D, <em>MSR-TR-2015-9</em>, 2015.</li>
+<li><strong>[MSR-TR-2015]</strong> Yunxin Liu, Zhen Qin, and Chunshui Zhao,=
+ =E2=80=9CAutoCharge: Automatically Charge Smartphones Using a Light Beam=
+=E2=80=9D, <em>MSR-TR-2015-5</em>, 2015.</li>
+<li><strong>[MSR-TR-2012]</strong> Alexander Moshchuk, Helen J. Wang, and Y=
+unxin Liu, =E2=80=9CContent-Based Isolation: Rethinking Isolation Policy in=
+ Modern Client Systems=E2=80=9D, <em>Mincrosoft Research tech report, MSR-T=
+R-2012-82</em>, 2012.</li>
+<li><strong>[Demo-MobiCom-2009]</strong> Yunxin Liu, Yongqiang Xiong, Mingf=
+ei Guo, Yuanhe Huang, and Hyukjae Jang, =E2=80=9CzBridge: Enabling a Mobile=
+ Workspace in Your Hand=E2=80=9D, <em>Mobicom=E2=80=9909 Demo</em>, Septemb=
+er 2009.</li>
+<li><strong>[Demo-MobiSys-2009]</strong> Yunxin Liu, Ahmad Rahmati, Yuanhe =
+Huang, Hyukjae Jang, Lin Zhong, Yongguang Zhang, and Shensheng Zhang, =E2=
+=80=9CxShare: Supporting Impromptu Sharing of Mobile Phones=E2=80=9D, <em>M=
+obisys=E2=80=9909 Demo</em>, June 2009.</li>
+<li><strong>[MSR-TR-2007]</strong> Chen Chen, Chuanxiong Guo, Yunxin Liu, H=
+elen J. Wang, Qing Yu, and Yongguang Zhang, =E2=80=9CMining the Web for IP =
+Address Geolocations=E2=80=9D, <em>Mincrosoft Research tech report, MSR-TR-=
+2007-139</em>, 2007.</li>
+</ol>
+
+</body>
+
+</html>
